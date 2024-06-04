@@ -23,7 +23,7 @@ $ npm install @knowontology/know
 ### Importing the framework
 
 ```javascript
-import * from '@knowontology/know';
+import * as know from '@knowontology/know';
 ```
 
 ## 👨‍💻 Development

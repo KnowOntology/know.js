@@ -1,5 +1,32 @@
 {
+  "name": "@knowontology/know",
+  "version": "0.0.0",
+  "description": "The Know Framework for JavaScript & TypeScript",
+  "type": "module",
+  "module": "dist/know.js",
+  "types": "dist/know.d.ts",
+  "files": [
+    "AUTHORS",
+    "CHANGES.md",
+    "README.md",
+    "UNLICENSE",
+    "VERSION",
+    "package.json",
+    "dist/**/*.js",
+    "dist/**/*.d.ts"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "Arto Bendiken <arto@haltia.ai> (https://ar.to)",
+  "license": "Unlicense",
+  "homepage": "https://github.com/KnowOntology/know.js",
+  "bugs": "https://github.com/KnowOntology/know.js/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnowOntology/know.js.git"
+  },
   "devDependencies": {
+    "@tsconfig/node18": "^18.2.4",
     "typescript": "^5.4.5"
   }
 }
