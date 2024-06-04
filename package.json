@@ -1,6 +1,6 @@
 {
   "name": "@knowontology/know",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The Know Framework for JavaScript & TypeScript",
   "type": "module",
   "main": "dist/know.js",
