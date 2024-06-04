@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "The Know Framework for JavaScript & TypeScript",
   "type": "module",
+  "main": "dist/know.js",
   "module": "dist/know.js",
   "types": "dist/know.d.ts",
   "files": [

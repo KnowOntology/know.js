@@ -1,14 +1,18 @@
-# Know.js: The Know Framework for JavaScript & TypeScript
+# Know.js: The Know Framework for JavaScript
 
 [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://unlicense.org)
-[![Compatibility](https://img.shields.io/badge/es6-blue)](#)
-[![Package](https://img.shields.io/badge/release-0.0.0-orange)](#)
+[![Compatibility](https://img.shields.io/badge/es-2022-blue)](https://en.wikipedia.org/wiki/ECMAScript_version_history#13th_Edition_%E2%80%93_ECMAScript_2022)
+[![Package](https://img.shields.io/npm/v/%40knowontology%2Fknow)](https://npmjs.com/package/@knowontology/know)
 
 🚧 _We are building in public. This is presently under heavy construction._
 
 ## 🛠️ Prerequisites
 
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#13th_Edition_%E2%80%93_ECMAScript_2022)
+  or newer
+
 - [TypeScript](https://www.typescriptlang.org) 5.4+ or newer
+  (developers only)
 
 ## ⬇️ Installation
 
